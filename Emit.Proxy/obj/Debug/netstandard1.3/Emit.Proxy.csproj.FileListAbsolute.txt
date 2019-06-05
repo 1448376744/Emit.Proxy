@@ -1,0 +1,4 @@
+D:\Emit.Proxy\Emit.Proxy\obj\Debug\netstandard1.3\Emit.Proxy.csprojAssemblyReference.cache
+D:\Emit.Proxy\Emit.Proxy\obj\Debug\netstandard1.3\Emit.Proxy.csproj.CoreCompileInputs.cache
+D:\Emit.Proxy\Emit.Proxy\obj\Debug\netstandard1.3\Emit.Proxy.AssemblyInfoInputs.cache
+D:\Emit.Proxy\Emit.Proxy\obj\Debug\netstandard1.3\Emit.Proxy.AssemblyInfo.cs
